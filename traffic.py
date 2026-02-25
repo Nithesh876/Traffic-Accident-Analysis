@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-file_path = './traffic_accidents1.csv'  # Path to your CSV file
+file_path = 'traffic_accidents1.csv'  # Path to your CSV file
 traffic_data = pd.read_csv(file_path)
 
 # Data overview

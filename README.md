@@ -58,7 +58,3 @@ The program generates:
 - Pie charts (Distribution)
 
 ---
-
-## 👨‍💻 Author
-
-Piyush Raj
